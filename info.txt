@@ -1,3 +1,3 @@
 thay info 2 dong nay trong file config.txt
-token = ODk4NDI0MDEwMjM5NTM3MTYy.YWkAjw.oIyu43gHVHDXdMbFZrTexDZgOow
+token = ODk4NDI0MDEwMjM5NTM3MTYy.YWkAjw.aICIo_HiBgm1MK1pNM8SjhOLjYQ.UOA (bo duoi .UOA di)
 owner = 362195918130249728
